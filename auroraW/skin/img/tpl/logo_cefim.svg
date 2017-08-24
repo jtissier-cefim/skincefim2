@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="960px" height="540px" viewBox="0 0 960 540" enable-background="new 0 0 960 540" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="960" height="540"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<path id="SVGID_3_" d="M301.398,140.626l-71.915,77.811c-3.733,4.039-6.787,11.844-6.787,17.344v68.438
+				c0,5.5,3.054,13.306,6.787,17.345l71.915,77.811c3.734,4.039,9.97,4.162,13.859,0.273l122.574-122.574
+				c3.89-3.89,3.89-10.253,0.001-14.142L315.257,140.353c-1.896-1.896-4.351-2.838-6.8-2.838
+				C305.882,137.514,303.312,138.556,301.398,140.626"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="-9.765625e-004" y1="539.9971" x2="0.999" y2="539.9971" gradientTransform="matrix(218.0528 0 0 -218.0528 222.75 118018.5078)">
+			<stop  offset="0" style="stop-color:#B31B00"/>
+			<stop  offset="1" style="stop-color:#DE2100"/>
+		</linearGradient>
+		<rect x="222.696" y="137.514" clip-path="url(#SVGID_4_)" fill="url(#SVGID_5_)" width="219.025" height="266.022"/>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<path id="SVGID_6_" d="M301.398,140.626l-71.915,77.811c-3.733,4.039-6.787,11.844-6.787,17.344v68.438
+				c0,5.5,3.054,13.306,6.787,17.345l71.915,77.811c3.734,4.039,9.97,4.162,13.859,0.273l122.574-122.574
+				c3.89-3.89,3.89-10.253,0.001-14.142L315.257,140.353c-1.896-1.896-4.351-2.838-6.8-2.838
+				C305.882,137.514,303.312,138.556,301.398,140.626"/>
+		</defs>
+		<clipPath id="SVGID_7_">
+			<use xlink:href="#SVGID_6_"  overflow="visible"/>
+		</clipPath>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="222.696" y="137.514" width="219.025" height="266.022">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="222.696" y="137.514" width="219.025" height="266.022" id="SVGID_8_">
+			<g filter="url(#Adobe_OpacityMaskFilter)">
+				
+					<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="-4.882813e-004" y1="539.998" x2="0.9995" y2="539.998" gradientTransform="matrix(218.0528 0 0 -218.0528 222.75 118018.5)">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.0677" style="stop-color:#E1E1E1"/>
+					<stop  offset="0.213" style="stop-color:#A6A6A6"/>
+					<stop  offset="0.3581" style="stop-color:#737373"/>
+					<stop  offset="0.4996" style="stop-color:#4A4A4A"/>
+					<stop  offset="0.6368" style="stop-color:#2A2A2A"/>
+					<stop  offset="0.7684" style="stop-color:#131313"/>
+					<stop  offset="0.8921" style="stop-color:#050505"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				<rect x="222.696" y="137.514" clip-path="url(#SVGID_7_)" fill="url(#SVGID_9_)" width="219.025" height="266.022"/>
+			</g>
+		</mask>
+		
+			<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="-9.765625e-004" y1="539.9971" x2="0.999" y2="539.9971" gradientTransform="matrix(218.0528 0 0 -218.0528 222.75 118018.5078)">
+			<stop  offset="0" style="stop-color:#4F0C01"/>
+			<stop  offset="0.1162" style="stop-color:#6B1001"/>
+			<stop  offset="0.3093" style="stop-color:#941601"/>
+			<stop  offset="0.4985" style="stop-color:#B41B00"/>
+			<stop  offset="0.6802" style="stop-color:#CB1E00"/>
+			<stop  offset="0.851" style="stop-color:#D92000"/>
+			<stop  offset="1" style="stop-color:#DE2100"/>
+		</linearGradient>
+		
+			<rect x="222.696" y="137.514" clip-path="url(#SVGID_7_)" mask="url(#SVGID_8_)" fill="url(#SVGID_10_)" width="219.025" height="266.022"/>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<rect id="SVGID_11_" width="960" height="540"/>
+		</defs>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_12_)" fill="#FD6100" d="M219.859,164.46c-3.889-3.889-10.253-3.889-14.142,0l-42.162,42.166
+			c-3.888,3.889-3.888,10.253,0.001,14.142l42.161,42.163c3.889,3.889,3.889,10.253,0,14.142l-42.161,42.158
+			c-3.889,3.889-3.889,10.253-0.001,14.142l42.162,42.166c3.889,3.89,10.253,3.89,14.142,0l98.468-98.466
+			c3.889-3.889,3.889-10.253,0-14.142L219.859,164.46z"/>
+		<g clip-path="url(#SVGID_12_)">
+			<defs>
+				<rect id="SVGID_13_" x="128.833" y="243.958" width="53.546" height="53.546"/>
+			</defs>
+			<clipPath id="SVGID_14_">
+				<use xlink:href="#SVGID_13_"  overflow="visible"/>
+			</clipPath>
+			<path clip-path="url(#SVGID_14_)" fill="#FD6100" d="M163.319,294.322c-4.242,4.243-11.182,4.243-15.426,0l-15.876-15.878
+				c-4.244-4.242-4.244-11.184,0-15.427l15.876-15.878c4.244-4.242,11.184-4.242,15.426,0l15.878,15.878
+				c4.243,4.243,4.243,11.185,0,15.427L163.319,294.322z"/>
+		</g>
+		<path clip-path="url(#SVGID_12_)" fill="#FD6100" d="M130.288,336.963c-3.374,3.374-8.895,3.374-12.266,0l-12.631-12.629
+			c-3.376-3.371-3.376-8.895,0-12.27l12.631-12.628c3.371-3.373,8.892-3.373,12.266,0l12.631,12.628
+			c3.374,3.375,3.374,8.898,0,12.27L130.288,336.963z"/>
+		<path clip-path="url(#SVGID_12_)" fill="#FD6100" d="M55.647,289.136c-1.591,1.592-4.194,1.592-5.783,0l-5.952-5.949
+			c-1.589-1.59-1.589-4.193,0-5.782l5.952-5.95c1.589-1.593,4.192-1.593,5.783,0l5.949,5.95c1.591,1.589,1.591,4.192,0,5.782
+			L55.647,289.136z"/>
+		<path clip-path="url(#SVGID_12_)" fill="#FD6100" d="M44.866,266.811c-1.179,1.178-3.11,1.178-4.293,0l-4.418-4.421
+			c-1.181-1.181-1.181-3.11,0-4.293l4.418-4.419c1.183-1.18,3.114-1.18,4.293,0l4.423,4.419c1.179,1.183,1.179,3.112,0,4.293
+			L44.866,266.811z"/>
+		<path clip-path="url(#SVGID_12_)" fill="#FD6100" d="M112.405,292.979c-1.924,1.925-5.075,1.925-6.999,0l-7.204-7.2
+			c-1.925-1.926-1.925-5.076,0-7.001l7.204-7.203c1.924-1.922,5.075-1.922,6.999,0l7.203,7.203c1.928,1.925,1.928,5.075,0,7.001
+			L112.405,292.979z"/>
+		<path clip-path="url(#SVGID_12_)" fill="#FD6100" d="M81.437,310.918c-2.415,2.415-6.36,2.415-8.776,0l-9.027-9.031
+			c-2.416-2.411-2.416-6.357,0-8.769l9.027-9.03c2.416-2.413,6.361-2.413,8.776,0l9.028,9.03c2.415,2.411,2.415,6.357,0,8.769
+			L81.437,310.918z"/>
+		<path clip-path="url(#SVGID_12_)" fill="#433B3B" d="M518.047,312.829c-25.941,0-36.512-18.256-36.512-45.159
+			c0-28.44,10.378-46.504,37.089-46.504c7.878,0,18.829,3.074,25.173,5.572l-2.884,6.918c-6.533-3.266-15.948-6.148-22.484-6.148
+			c-21.904,0-28.438,17.679-28.438,40.162c0,20.561,5.957,38.816,28.248,38.816c5.957,0,15.564-2.308,23.06-6.149l2.883,6.918
+			C537.453,310.522,524.772,312.829,518.047,312.829"/>
+		<path clip-path="url(#SVGID_12_)" fill="#433B3B" d="M569.935,268.821c0,20.947,6.34,37.667,27.862,37.667
+			c10.187,0,18.065-3.074,27.098-7.878l2.306,7.109c-9.994,4.804-20.563,7.11-30.939,7.11c-25.559,0-34.973-20.563-34.973-44.966
+			c0-20.37,7.876-46.697,34.588-46.697c28.44,0,34.59,21.523,34.59,47.655H569.935z M595.876,227.508
+			c-16.909,0-24.981,13.835-26.134,34.973h53.038C622.78,239.422,615.093,227.508,595.876,227.508"/>
+		<path clip-path="url(#SVGID_12_)" fill="#433B3B" d="M665.831,210.212v12.875h18.063v6.342h-18.063v81.478h-7.878v-81.478h-14.607
+			v-6.342h14.607v-12.298c0-17.295,10.184-27.48,29.593-29.017l1.923,6.917C669.29,190.61,665.831,198.875,665.831,210.212"/>
+		<rect x="699.843" y="223.087" clip-path="url(#SVGID_12_)" fill="#433B3B" width="7.878" height="87.821"/>
+		<path clip-path="url(#SVGID_12_)" fill="#433B3B" d="M844.159,310.907V255.18c0-13.067-2.688-27.672-22.676-27.672
+			c-11.528,0-20.944,11.53-24.213,20.561v62.838h-7.877V255.18c0-16.72-7.302-27.672-21.909-27.672
+			c-11.526,0-20.942,10.76-24.019,19.602v63.797h-7.88v-67.642c0-7.304-0.96-13.644-1.536-20.179h6.341l2.689,13.837
+			c4.036-5.959,11.53-15.758,25.56-15.758c15.758,0,23.253,9.416,26.325,19.408c4.997-8.069,12.877-19.408,27.289-19.408
+			c19.407,0,29.783,10.184,29.783,33.628v56.113H844.159z"/>
+		<rect x="699.075" y="195.333" clip-path="url(#SVGID_12_)" fill="#DE2100" width="9.224" height="13.067"/>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 483.2354 353.1074)"><tspan x="0" y="0" fill="#433B3B" font-family="'Signika-Light'" font-size="35.8537" letter-spacing="-3">L</tspan><tspan x="13.552" y="0" fill="#433B3B" font-family="'Signika-Light'" font-size="35.8537">’</tspan><tspan x="20.185" y="0" fill="#433B3B" font-family="'Signika-Light'" font-size="35.8537">é</tspan><tspan x="38.146" y="0" fill="#433B3B" font-family="'Signika-Light'" font-size="35.8537">c</tspan><tspan x="54.065" y="0" fill="#433B3B" font-family="'Signika-Light'" font-size="35.8537">o</tspan><tspan x="73.749" y="0" fill="#433B3B" font-family="'Signika-Light'" font-size="35.8537">l</tspan><tspan x="81.888" y="0" fill="#433B3B" font-family="'Signika-Light'" font-size="35.8537">e du </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 639.8447 353.1074)"><tspan x="0" y="0" fill="#DE2100" font-family="'Signika-Light'" font-size="35.8537">w</tspan><tspan x="25.778" y="0" fill="#DE2100" font-family="'Signika-Light'" font-size="35.8537">eb </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 709.1826 353.1074)" fill="#433B3B" font-family="'Signika-Light'" font-size="35.8537">et des </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 807.4941 353.1074)"><tspan x="0" y="0" fill="#FD6100" font-family="'Signika-Light'" font-size="35.8537">r</tspan><tspan x="10.936" y="0" fill="#FD6100" font-family="'Signika-Light'" font-size="35.8537">éseaux</tspan></text>
+	</g>
+</g>
+</svg>
