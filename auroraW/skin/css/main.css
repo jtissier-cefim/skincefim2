@@ -3,7 +3,7 @@ dark #666666 : #434e52
 light teal : #e0ecec
 
 #f37e19
-#FD6100
+#f37e19
 */
 
 /* FONT */
@@ -288,7 +288,7 @@ code{
 	padding:0 0 0 1em;
 }
 .default #menu .mnu li{
-	background-image: linear-gradient(to right, #FD6100 0%,rgba(0,0,0,0) 100%);
+	background-image: linear-gradient(to right, #f37e19 0%,rgba(0,0,0,0) 100%);
 	background-size: 100% 1px; 
 	background-position: bottom; 
 	background-repeat: no-repeat;
@@ -339,7 +339,7 @@ code{
 	margin-bottom:3px;
 }
 .default #menu .mnu .sel_yes >.lbl .item span {
-	background-color: #FD6100;
+	background-color: #f37e19;
 	color:white;
 	border-radius:5px;
 }
@@ -555,11 +555,11 @@ code{
 	display: flex;
 	flex-flow: column;
 	background-color: white;
-	border:2px solid #FD6100;
+	border:2px solid #f37e19;
 }
 .subWindow_ti{
 	flex: 0 0 1.5em;
-	background-color: #FD6100;
+	background-color: #f37e19;
 	color:#4A4A4A;
 	padding-left:0.5em;
 	font-weight: bold;
@@ -617,7 +617,7 @@ a.subWindow_x {
 	padding-right:20px;
 }
 .subWin.eval #accessibility a{
-	color: #FD6100;
+	color: #f37e19;
 }
 .subWin.eval #main{
 	flex: 1 1 auto;
@@ -713,7 +713,7 @@ a.subWindow_x {
 
 /* === START - article ====================================================== */
 section.article > .hBk_ti, .sco section.article > .mainContent_ti{
-	background-image: linear-gradient(to right, #FD6100 0%,rgba(0,0,0,0) 100%);
+	background-image: linear-gradient(to right, #f37e19 0%,rgba(0,0,0,0) 100%);
 	background-size: 100% 2px; 
 	background-position: bottom; 
 	background-repeat: no-repeat;
@@ -721,7 +721,7 @@ section.article > .hBk_ti, .sco section.article > .mainContent_ti{
 	font-size: 1.6em;
 }
 section > .hBk_ti, .sco section > .mainContent_ti{
-	background-image: linear-gradient(to right, #FD6100 0%,rgba(0,0,0,0) 100%);
+	background-image: linear-gradient(to right, #f37e19 0%,rgba(0,0,0,0) 100%);
 	background-size: 100% 1px; 
 	background-position: bottom; 
 	background-repeat: no-repeat;
@@ -760,14 +760,14 @@ a.tooltip_a.info{
 }
 .tooltip{
 	background-color: #e0ecec;
-	border:2px solid #FD6100;
+	border:2px solid #f37e19;
 }
 .tooltip_co{
 	padding: 2px 4px;
 	
 }
 .tooltip_ti{
-	background-color: #FD6100;
+	background-color: #f37e19;
 	min-height:20px;
 	color:#ffffff;
 	text-align:center;
@@ -990,7 +990,7 @@ div.scCodeLineNums-invisible .scCodeCtrl a.scCodeBtnLineNums{
 
 /* === START - SEARCH ======================================================= */
 .mnu_sch > .capt , .mnu_tgle_o, .mnu_tgle_c{
-	color: #FD6100;
+	color: #f37e19;
 }
 .schCmds{
 	position:relative;
@@ -1014,7 +1014,7 @@ div.schPropose a:hover{
 	left: 56px;
 	width: 140px;
 	padding: 5px 2px;
-	border: 1px solid #FD6100;
+	border: 1px solid #f37e19;
 	border-top: 0;
 	background-color: white;
 	z-index: 100;
@@ -1024,7 +1024,7 @@ div.schPropose a:hover{
 .schBtnPropose{
 	display:block;
 	text-decoration:none;
-	color:#FD6100;
+	color:#f37e19;
 	font-style: italic;
 	padding:0 2px;
 	margin:1px;
@@ -1034,13 +1034,13 @@ div.schPropose a:hover{
 .schBtnPropose:focus {
 	outline:none;
 	text-decoration:none;
-	background-color: #FD6100;
+	background-color: #f37e19;
 	color: #ffffff;
 	border-radius: 2px; 
 }
 .schProposeExceeded{
 	display:block;
-	color:#FD6100;
+	color:#f37e19;
 	font-style: italic;
 	padding:2px 3px;
 }
@@ -1072,8 +1072,8 @@ input.schBtnLaunch {
 	margin-left: 5px;
 }
 .schCmds_act input.schInput {
-	border: 1px solid #FD6100;
-	color:#FD6100;
+	border: 1px solid #f37e19;
+	color:#f37e19;
 }
 
 .schResults .schPgeBk .schPgeBtn,
@@ -1128,15 +1128,15 @@ input.schBtnLaunch {
 	bottom:-80px;
 	width:700px;
 	margin-left:-350px;
-	color: #FD6100;
+	color: #f37e19;
 	background-color: #e0ecec;
-	border-right: 1px solid #FD6100;
-	border-top: 1px solid #FD6100;
-	border-left: 1px solid #FD6100;
+	border-right: 1px solid #f37e19;
+	border-top: 1px solid #f37e19;
+	border-left: 1px solid #f37e19;
 	height: 50px;
 	transition: all 0.4s ease-out;
 	z-index: 91;
-	box-shadow: 0 0 10px #FD6100;
+	box-shadow: 0 0 10px #f37e19;
 }
 .schDisplay_on .schResFrame {
 	bottom: 0px;
@@ -1315,7 +1315,7 @@ input.schBtnLaunch {
 .schResults a.mnu_lnk {
 	margin: 2px;
 	display: block;
-	color: #FD6100;
+	color: #f37e19;
 }
 div.schResults li.mnu_sel_yes .schPgeBtn,
 div.schResults div.mnu_sel_yes .mnu_lnk{
@@ -1363,7 +1363,7 @@ div.schResults div.mnu_sch_no a.mnu_lnk:hover{
 	margin:0;
 }
 .schResListSrl ul {
-	color:#FD6100;
+	color:#f37e19;
 	margin:0;
 	list-style: disc;
 	padding-left: 13px;
@@ -1404,11 +1404,11 @@ a.schParent_tgle_o{
 .schParent_tgle_c:hover,
 .schParent_tgle_o:hover {
 	text-decoration:none;
-	color: #FD6100;
+	color: #f37e19;
 }
 div.schResults .schPgeBk .schPgeBtn:hover,
 div.schResults .mnu_sch_yes .mnu_lnk:hover {
-	color: #FD6100;
+	color: #f37e19;
 	text-decoration: underline;
 }
 div.schResults div.mnu_sel_yes .mnu_lnk:hover{
@@ -1425,15 +1425,15 @@ div.schResults div.mnu_sel_yes .mnu_lnk:hover{
 	display:none;
 }
 .schHit {
-	background-color: #FD6100;
+	background-color: #f37e19;
 	color:#e0ecec;
 	border-radius: 3px; 
 }
 .schHit_current {
-	background-color: #FD6100;
+	background-color: #f37e19;
 	color:white;
 	border-radius: 3px;
-	box-shadow: 0 0 5px 0 #FD6100;
+	box-shadow: 0 0 5px 0 #f37e19;
 }
 .schTerm{
 	font-weight: bold;
@@ -2002,21 +2002,21 @@ button:focus,
 	font-size: 1.2em;
 	margin-bottom: 0px;
 	line-height: 40px;
-	color:#FD6100;
+	color:#f37e19;
 	text-align:right;
 }
 .iBk_ti {
 	font-size: 1.2em;
 	margin-bottom: -10px;
 	line-height: 40px;
-	color:#FD6100;
+	color:#f37e19;
 	margin-left:15px;
 }
 
 .pBk_co{
 	background-color:rgba(224, 236, 236,0.5);
 	border-radius:0 0 0 5px;
-	background-image: linear-gradient(to right, #FD6100 0%, rgba(0, 0, 0, 0) 100%);
+	background-image: linear-gradient(to right, #f37e19 0%, rgba(0, 0, 0, 0) 100%);
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: 100% 1px;
@@ -2026,7 +2026,7 @@ button:focus,
 }
 
 .pBk{
-	background-image: linear-gradient(0deg, #FD6100 0%, rgba(0, 0, 0, 0) 100%);
+	background-image: linear-gradient(0deg, #f37e19 0%, rgba(0, 0, 0, 0) 100%);
 	background-position: right bottom;
 	background-repeat: no-repeat;
 	background-size: 1px 100%;
@@ -2147,7 +2147,7 @@ button:focus,
 
 .sw_child_navList {
 	list-style-type: none;
-	background-image: linear-gradient(180deg, #FD6100 0%, rgba(0, 0, 0, 0) 100%);
+	background-image: linear-gradient(180deg, #f37e19 0%, rgba(0, 0, 0, 0) 100%);
 	background-position: left bottom;
 	background-repeat: no-repeat;
 	background-size: 1px 100%;
@@ -2159,7 +2159,7 @@ button:focus,
 .sw_child_navList a{
 	text-decoration:none;
 	font-weight : bold;
-	color:#FD6100;
+	color:#f37e19;
 }
 .sw_child_navList a:hover{
 	text-decoration:underline;
@@ -2169,24 +2169,24 @@ button:focus,
 /* === START - PRIMITIVE ==================================================== */
 
 .txt_ili, .txt_oli {
-	color:#FD6100;
+	color:#f37e19;
 }
 .txt_ili>p, .txt_oli>p {
 	color:#000000;
 }
 .resLnk{
-	color:#FD6100;
+	color:#f37e19;
 	text-decoration:none;
 }
 .op_txt_ul{
-	color:#FD6100;
+	color:#f37e19;
 	text-decoration:none;
 }
 .op_txt_ul:hover{
 	text-decoration:underline;
 }
 .op_txt_ul::after{
-	color:#FD6100;
+	color:#f37e19;
 	font-family:"fontello";
 	content: " \e808";
 }
@@ -2210,11 +2210,11 @@ button:focus,
 }
 
 .txt_ul{
-	color:#FD6100;
+	color:#f37e19;
 	text-decoration:none;
 }
 .dwnLnk{
-	color:#FD6100;
+	color:#f37e19;
 	text-decoration:none;
 }
 .dwnLnk:hover{
@@ -2223,7 +2223,7 @@ button:focus,
 .dwnLnk::after{
 	font-family:"fontello";
 	content: " \e803";
-	color:#FD6100;
+	color:#f37e19;
 }
 .dwnLnk:hover::after{
 	font-family:"fontello";
@@ -2231,7 +2231,7 @@ button:focus,
 	font-size:105%;
 }
 .subLnk{
-	color:#FD6100;
+	color:#f37e19;
 	text-decoration:none;
 }
 .subLnk:hover{
@@ -2240,7 +2240,7 @@ button:focus,
 .subLnk::after{
 	font-family:"fontello";
 	content: " \e805";
-	color:#FD6100;
+	color:#f37e19;
 }
 .subLnk:hover::after{
 	font-family:"fontello";
@@ -2271,11 +2271,11 @@ button:focus,
 	margin: 15px auto;
 }
 .txt_tb th {
-	border:2px solid #FD6100;
+	border:2px solid #f37e19;
 	background-color: #e0ecec;
 }
 .txt_tb td {
-	border:1px solid #FD6100;
+	border:1px solid #f37e19;
 }
 .txt_tb td.txt_word_tbtd {
 	text-align:center;
@@ -2314,7 +2314,7 @@ blockquote.rBk:before{
 	font-size: 4em;
 	left: -0.5em;
 	top: -0.5em;
-	color:#FD6100;
+	color:#f37e19;
 	opacity:0.6;
 }
 blockquote.rBk:after{
@@ -2323,7 +2323,7 @@ blockquote.rBk:after{
 	font-size: 4em;
 	right: -0.5em;
 	bottom: -0.2em;
-	color:#FD6100;
+	color:#f37e19;
 	opacity:0.6;
 }
 div.lnkDoc{
@@ -2343,7 +2343,7 @@ i.webInstruct{
 }
 .cbkClosed a{
 	text-decoration:none;
-	color:#FD6100;
+	color:#f37e19;
 }
 a.iBk_closed::before, a.iBk_open:hover::before{
 	font-family:"fontello";
@@ -2407,7 +2407,7 @@ a.iBk_closed:hover::before, a.iBk_open::before{
 
 .btnQuiz {
 	text-decoration: none;
-	color:#FD6100;
+	color:#f37e19;
 	font-weight:bold;
 	line-height:40px;
 	margin-left: 20px;
@@ -2422,7 +2422,7 @@ a.iBk_closed:hover::before, a.iBk_open::before{
 	height: 40px;
 }
 .btnQuiz:hover {
-	background-color:#FD6100;
+	background-color:#f37e19;
 	color:#e0ecec;
 }
 .correction span{
@@ -2439,7 +2439,7 @@ a.iBk_closed:hover::before, a.iBk_open::before{
 }
 .question >.rBk {
 	margin-top: 20px;
-	background-image: linear-gradient(to right, #FD6100 0%, rgba(0, 0, 0, 0) 100%);
+	background-image: linear-gradient(to right, #f37e19 0%, rgba(0, 0, 0, 0) 100%);
 	background-position: center bottom;
 	background-repeat: no-repeat;
 	background-size: 100% 1px;
@@ -2475,7 +2475,7 @@ a.iBk_closed:hover::before, a.iBk_open::before{
 	padding-left:25px;
 }
 .collBlk_open, .globalExp{
-	background-image: linear-gradient(180deg, #FD6100 0%, rgba(0, 0, 0, 0) 100%);
+	background-image: linear-gradient(180deg, #f37e19 0%, rgba(0, 0, 0, 0) 100%);
 	background-position: left bottom;
 	background-repeat: no-repeat;
 	background-size: 1px 100%;
@@ -2578,7 +2578,7 @@ div.choiceList_la p{
 	margin-bottom: 5px;
 }
 .ddBasketCatch, .ddDropCatch {
-	border: 1px solid #FD6100;
+	border: 1px solid #f37e19;
 }
 .ddBasketCont, .ddDropCont {
 	padding: 2px;
@@ -2597,7 +2597,7 @@ div.choiceList_la p{
 }
 .ddDropTi {
 	font-weight: bold;
-	background-color: #FD6100;
+	background-color: #f37e19;
 	color: white;
 	text-align: center;
 }
@@ -2696,12 +2696,12 @@ div.choiceList_la p{
 	line-height: 1.6em;
 }
 .gapInput{
-	border: 1px solid #FD6100;
+	border: 1px solid #f37e19;
 	border-radius:3px;
 	font-size:0.9em;
 }
 .gapInput[disabled]{
-	color: #FD6100;
+	color: #f37e19;
 	background-color: #E0ECEC;
 }
 .gapAnswer{
@@ -2730,7 +2730,7 @@ div.choiceList_la p{
 }
 .assmntUa .gotoEval .btnEval {
 	background: url("../img/tpl/button-start.svg") no-repeat scroll right center / 40px 40px transparent;
-	color: #FD6100;
+	color: #f37e19;
 	display: inline-block;
 	font-size: 1.2em;
 	height: 40px;
@@ -2753,7 +2753,7 @@ div.choiceList_la p{
 	display: inline-block;
 	padding-right: 40px;
 	padding-left:40px;
-	color: #FD6100;
+	color: #f37e19;
 	font-size: 1.2em;
 	text-decoration: none;
 	line-height:33px;
@@ -2790,7 +2790,7 @@ div.choiceList_la p{
 .subWin .solBody .question_ti, .subWin .solBody .score_ti, .subWin .solBody .sol_ti, .subWin .solBody .explain_ti {
 	font-style: italic;
 	font-weight: bold;
-	color:#FD6100;
+	color:#f37e19;
 }
 .subWin .solBody .question{
 	background: url("../img/quiz/quest.png") no-repeat scroll transparent;
@@ -2809,7 +2809,7 @@ background: url("../img/quiz/score.png") no-repeat scroll transparent;
 /* === START - TOOLS ======================================================== */
 /*Question de synthèse */
 .tools .synth .hBk_ti, .tools .credits .hBk_ti{
-	background-image: linear-gradient(to right, #FD6100 0%, rgba(0, 0, 0, 0) 100%);
+	background-image: linear-gradient(to right, #f37e19 0%, rgba(0, 0, 0, 0) 100%);
 	background-position: center bottom;
 	background-repeat: no-repeat;
 	background-size: 100% 2px;
@@ -2826,15 +2826,15 @@ background: url("../img/quiz/score.png") no-repeat scroll transparent;
 }
 .mField_ti{
 	font-weight: bold;
-	color: #FD6100;
+	color: #f37e19;
 }
 .tools .refOutlineEntry, .tools .mField_ti{
 	margin: 1em;
 	font-weight: bold;
-	color: #FD6100;
+	color: #f37e19;
 }
 .tools .refOutlineEntry a{
-	color:#FD6100;
+	color:#f37e19;
 	text-decoration:none;
 }
 .tools .refOutlineEntry a:hover{
@@ -2842,18 +2842,18 @@ background: url("../img/quiz/score.png") no-repeat scroll transparent;
 }
 .tools .refCateg{
 	margin: 1em 0em;
-	color: #FD6100;
+	color: #f37e19;
 	font-size: 2em;
 }
 .tools dfn, .tools dt{
-	color: #FD6100;
+	color: #f37e19;
 	font-weight: bold;
 }
 .tools dd{
 	margin-left:15px;
 }
 .tools .mDiv, .tools .mField {
-	background-image: linear-gradient(180deg, #FD6100 0%, rgba(0, 0, 0, 0) 100%);
+	background-image: linear-gradient(180deg, #f37e19 0%, rgba(0, 0, 0, 0) 100%);
 	background-position: left bottom;
 	background-repeat: no-repeat;
 	background-size: 1px 100%;
@@ -2861,7 +2861,7 @@ background: url("../img/quiz/score.png") no-repeat scroll transparent;
 /*Credits*/
 #content .credits_ti{
 	font-weight: bold;
-	color: #FD6100;
+	color: #f37e19;
 	margin: 10px 10px 0px 0px;
 	font-size: 1.3em;
 }
@@ -2880,7 +2880,7 @@ background: url("../img/quiz/score.png") no-repeat scroll transparent;
 .resCredits{
 	margin-top: 5px;
 	padding-left: 16px;
-	background-image: linear-gradient(180deg, #FD6100 0%, rgba(0, 0, 0, 0) 100%);
+	background-image: linear-gradient(180deg, #f37e19 0%, rgba(0, 0, 0, 0) 100%);
 	background-position: left bottom;
 	background-repeat: no-repeat;
 	background-size: 1px 100%;
@@ -2894,7 +2894,7 @@ background: url("../img/quiz/score.png") no-repeat scroll transparent;
 .resCreditsLnk{
 	text-decoration: none;
 	padding-right: 12px;
-	color: #FD6100;
+	color: #f37e19;
 }
 a.resCreditsLnk:hover{
 	text-decoration: underline;
@@ -2902,20 +2902,20 @@ a.resCreditsLnk:hover{
 
 /*Index des mots clés*/
 .index .idxEntryTi{
-	color: #FD6100;
+	color: #f37e19;
     font-weight: bold;
 	margin-top: 20px;
 	margin-bottom: 3px;
 }
 .idxEntryCaller a{
-	color: #FD6100;
+	color: #f37e19;
 	text-decoration:none;
 }
 .idxEntryCaller a:hover{
 	text-decoration:underline;
 }
 .idxEntryCaller .stackSep{
-	color: #FD6100;
+	color: #f37e19;
 	font-weight:bold;
 }
 /* === STOP - TOOLS ======================================================== */
@@ -2990,13 +2990,13 @@ a.resCreditsLnk:hover{
 
 .scImgGalTi {
 	font-style: italic;
-	color: #FD6100;
+	color: #f37e19;
 	cursor: default;
 }
 
 .scImgGalTbr span.scImgGalCount {
 	font-style: italic;
-	color: #FD6100;
+	color: #f37e19;
 	cursor: default;
 }
 
@@ -3076,7 +3076,7 @@ a.scImgGalBtnPly:hover {
 
 .scImgZmTi {
 	background-color: #e0ecec;
-	color:#FD6100;
+	color:#f37e19;
 	font-style:italic;
 	text-align:center;
 }
@@ -3192,7 +3192,7 @@ body.sco{
 	}
 	.default #root{
 		position: relative;
-		background: #FD6100;
+		background: #f37e19;
 	}
 	.default #header{
 		position: relative;
